@@ -1,7 +1,6 @@
 ---
 layout: home
-title: About
-permalink: /
+title: Index1
 ---
 ss
 ## Welcome to GitHub Pages - Great Navin
