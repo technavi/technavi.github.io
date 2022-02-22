@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /index1/
+permalink: /
 ---
 
 ## Welcome to GitHub Pages - Great Navin
