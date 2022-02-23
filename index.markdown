@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Home
 ---
 ## Welcome to GitHub Pages - Great Navin
