@@ -1,8 +1,7 @@
 ---
 layout: home
-title: Index1
+title: Home
 ---
-ss
 ## Welcome to GitHub Pages - Great Navin
 
 You can use the [editor on GitHub](https://github.com/technavi/technavi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
